@@ -4,7 +4,7 @@ import studentEndPoints from './src/routes/student';
 
 const app = express()
 const PORT = 8000
-const uri = 'mongodb+srv://asad:123@cluster0.yvrgnu3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0/test'
+const uri = '*********************************'
 
 async function start(){
     try{    
